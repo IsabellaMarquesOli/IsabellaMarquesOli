@@ -2,7 +2,7 @@
 
 Meu nome é Isabella Marques de Oliveira
 
-- Estou estudando na alura
+- Estou estudando na [alura](https://www.alura.com.br)
 - Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
 
 
