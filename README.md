@@ -3,6 +3,7 @@
 Meu nome é Isabella Marques de Oliveira
 
 - Estou estudando na [alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
 
 
